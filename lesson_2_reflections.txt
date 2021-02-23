@@ -12,3 +12,6 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualize the branch structure?
  The diagrams helped to visualize how the commit is listed and which commits are listed for the given branch. It also helped to visualize which branch is not listed in the branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+ Merging two branches helps to move through the commits at a time and if the development of the feature is complete and want to add it to the master branch we use merge.
