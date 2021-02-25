@@ -24,5 +24,5 @@ How might using version control make you more confident to make changes that cou
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
- I use Git for version-control. It makes it easier for comparing different versions of the code and debug the code.
+ I use Git for version-control. It makes it easier for comparing different versions of the code and debug the code.Thats it.
 
